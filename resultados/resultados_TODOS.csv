@@ -1,0 +1,43 @@
+Solver,Regla,Resultado,Tiempo (s),¿Verifica?,¿Tiene modelo?
+DPLL,Regla 1,modelo,0.0006,True,True
+MiniSAT,Regla 1,Satisfacible,0.0002,True,True
+SATtabla,Regla 1,modelo,0.0,True,True
+Tableaux anchura,Regla 1,modelo,0.017,True,True
+Tableaux backtracking,Regla 1,modelo,0.009,True,True
+Tableaux profundidad,Regla 1,modelo,0.003,True,True
+WalkSAT,Regla 1,modelo,0.0003,True,True
+DPLL,Regla 2,modelo,0.0006,True,True
+MiniSAT,Regla 2,Satisfacible,0.0001,True,True
+SATtabla,Regla 2,modelo,0.0,True,True
+Tableaux anchura,Regla 2,modelo,0.013,True,True
+Tableaux backtracking,Regla 2,modelo,0.008,True,True
+Tableaux profundidad,Regla 2,modelo,0.006,True,True
+WalkSAT,Regla 2,modelo,0.0002,True,True
+DPLL,Regla 3,modelo,0.0061,True,True
+MiniSAT,Regla 3,Satisfacible,0.0005,True,True
+SATtabla,Regla 3,modelo,14.316,True,True
+Tableaux anchura,Regla 3,modelo,10.545,True,True
+Tableaux backtracking,Regla 3,modelo,0.074,True,True
+Tableaux profundidad,Regla 3,modelo,0.134,True,True
+WalkSAT,Regla 3,modelo,0.0074,True,True
+DPLL,Regla 4,modelo,0.002,True,True
+MiniSAT,Regla 4,Satisfacible,0.0004,True,True
+SATtabla,Regla 4,modelo,0.0,True,True
+Tableaux anchura,Regla 4,tiempo agotado,30.746,,False
+Tableaux backtracking,Regla 4,modelo,0.027,True,True
+Tableaux profundidad,Regla 4,modelo,0.039,True,True
+WalkSAT,Regla 4,modelo,0.0037,True,True
+DPLL,Regla 5,modelo,0.0002,True,True
+MiniSAT,Regla 5,Satisfacible,0.0001,True,True
+SATtabla,Regla 5,modelo,0.0,True,True
+Tableaux anchura,Regla 5,modelo,0.004,True,True
+Tableaux backtracking,Regla 5,modelo,0.002,True,True
+Tableaux profundidad,Regla 5,modelo,0.002,True,True
+WalkSAT,Regla 5,modelo,0.0002,True,True
+DPLL,Reglas 1 a 5,modelo,0.0183,True,True
+MiniSAT,Reglas 1 a 5,Satisfacible,0.0014,True,True
+SATtabla,Reglas 1 a 5,modelo,79.927,True,True
+Tableaux anchura,Reglas 1 a 5,tiempo agotado,30.133,,False
+Tableaux backtracking,Reglas 1 a 5,tiempo agotado,30.011,,False
+Tableaux profundidad,Reglas 1 a 5,tiempo agotado,30.001,,False
+WalkSAT,Reglas 1 a 5,modelo,1.2184,True,True

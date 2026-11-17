@@ -1,0 +1,5 @@
+numpy
+matplotlib
+pandas
+jupyter
+# python-sat   # solo si 06_MiniSAT lo usa

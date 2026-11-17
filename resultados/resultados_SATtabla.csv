@@ -1,0 +1,7 @@
+Solver,Regla,Resultado,¿Verifica?,Tiempo (s)
+SATtabla,Regla 1,modelo,True,0.0
+SATtabla,Regla 2,modelo,True,0.0
+SATtabla,Regla 3,modelo,True,14.316
+SATtabla,Regla 4,modelo,True,0.0
+SATtabla,Regla 5,modelo,True,0.0
+SATtabla,Reglas 1 a 5,modelo,True,79.927

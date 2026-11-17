@@ -1,0 +1,309 @@
+{
+  "Tableaux": {
+    "Regla 1": {
+      "Tableaux anchura": {
+        "resultado": "modelo",
+        "verifica": true,
+        "tiempo_s": 0.018,
+        "modelo": {
+          "Ę": true,
+          "ē": true,
+          "Ď": true,
+          "Ą": true,
+          "ĉ": true
+        }
+      },
+      "Tableaux profundidad": {
+        "resultado": "modelo",
+        "verifica": true,
+        "tiempo_s": 0.003,
+        "modelo": {
+          "Ę": true,
+          "ē": true,
+          "Ď": true,
+          "Ą": true,
+          "ĉ": true
+        }
+      },
+      "Tableaux backtracking": {
+        "resultado": "modelo",
+        "verifica": true,
+        "tiempo_s": 0.009,
+        "modelo": {
+          "Ĕ": true,
+          "ď": true,
+          "Ċ": true,
+          "Ā": true,
+          "ą": true
+        }
+      }
+    },
+    "Regla 2": {
+      "Tableaux anchura": {
+        "resultado": "modelo",
+        "verifica": true,
+        "tiempo_s": 0.018,
+        "modelo": {
+          "Ę": true,
+          "ė": true,
+          "Ė": true,
+          "Ĕ": true,
+          "ĕ": true
+        }
+      },
+      "Tableaux profundidad": {
+        "resultado": "modelo",
+        "verifica": true,
+        "tiempo_s": 0.005,
+        "modelo": {
+          "Ę": true,
+          "ė": true,
+          "Ė": true,
+          "Ĕ": true,
+          "ĕ": true
+        }
+      },
+      "Tableaux backtracking": {
+        "resultado": "modelo",
+        "verifica": true,
+        "tiempo_s": 0.009,
+        "modelo": {
+          "Ą": true,
+          "ă": true,
+          "Ă": true,
+          "Ā": true,
+          "ā": true
+        }
+      }
+    },
+    "Regla 3": {
+      "Tableaux anchura": {
+        "resultado": "modelo",
+        "verifica": true,
+        "tiempo_s": 5.182,
+        "modelo": {
+          "Ę": false,
+          "ē": false,
+          "Ď": false,
+          "ĉ": false,
+          "Ą": false,
+          "ė": false,
+          "Ē": false,
+          "č": false,
+          "Ĉ": false,
+          "ă": false,
+          "Ė": false,
+          "đ": false,
+          "Č": false,
+          "ć": false,
+          "Ă": false,
+          "ĕ": false,
+          "Đ": false,
+          "ċ": false,
+          "Ć": false,
+          "ā": false,
+          "Ĕ": false,
+          "ď": false,
+          "Ċ": false,
+          "Ā": false,
+          "ą": false
+        }
+      },
+      "Tableaux profundidad": {
+        "resultado": "modelo",
+        "verifica": true,
+        "tiempo_s": 0.067,
+        "modelo": {
+          "ē": false,
+          "Ď": false,
+          "Ą": false,
+          "ĉ": false,
+          "Ę": false,
+          "Ē": false,
+          "č": false,
+          "ă": false,
+          "Ĉ": false,
+          "ė": false,
+          "đ": false,
+          "Č": false,
+          "Ă": false,
+          "ć": false,
+          "Ė": false,
+          "Đ": false,
+          "ċ": false,
+          "ā": false,
+          "Ć": false,
+          "ĕ": false,
+          "ď": false,
+          "Ċ": false,
+          "Ā": false,
+          "ą": false,
+          "Ĕ": false
+        }
+      },
+      "Tableaux backtracking": {
+        "resultado": "modelo",
+        "verifica": true,
+        "tiempo_s": 0.038,
+        "modelo": {
+          "Ę": false,
+          "ē": false,
+          "Ď": false,
+          "ĉ": false,
+          "Ą": false,
+          "ė": false,
+          "Ē": false,
+          "č": false,
+          "Ĉ": false,
+          "ă": false,
+          "Ė": false,
+          "đ": false,
+          "Č": false,
+          "ć": false,
+          "Ă": false,
+          "ĕ": false,
+          "Đ": false,
+          "ċ": false,
+          "Ć": false,
+          "ā": false,
+          "Ĕ": false,
+          "ď": false,
+          "Ċ": false,
+          "Ā": false,
+          "ą": false
+        }
+      }
+    },
+    "Regla 4": {
+      "Tableaux anchura": {
+        "resultado": "modelo",
+        "verifica": true,
+        "tiempo_s": 438.691,
+        "modelo": {
+          "ē": false,
+          "Ē": false,
+          "đ": false,
+          "Đ": false,
+          "ď": false,
+          "Ď": false,
+          "č": false,
+          "Č": false,
+          "ċ": false,
+          "Ċ": false,
+          "ĉ": false,
+          "Ĉ": false,
+          "ć": false,
+          "Ć": false,
+          "ą": false,
+          "Ą": false,
+          "ă": false,
+          "Ă": false,
+          "Ā": false,
+          "ā": false
+        }
+      },
+      "Tableaux profundidad": {
+        "resultado": "modelo",
+        "verifica": true,
+        "tiempo_s": 0.027,
+        "modelo": {
+          "ė": true,
+          "Ę": true,
+          "Ė": true,
+          "Ē": true,
+          "ē": true,
+          "đ": true,
+          "č": true,
+          "Ď": true,
+          "Č": true,
+          "Ĉ": true,
+          "ĉ": true,
+          "ć": true
+        }
+      },
+      "Tableaux backtracking": {
+        "resultado": "modelo",
+        "verifica": true,
+        "tiempo_s": 0.018,
+        "modelo": {
+          "ē": false,
+          "Ē": false,
+          "đ": false,
+          "Đ": false,
+          "ď": false,
+          "Ď": false,
+          "č": false,
+          "Č": false,
+          "ċ": false,
+          "Ċ": false,
+          "ĉ": false,
+          "Ĉ": false,
+          "ć": false,
+          "Ć": false,
+          "ą": false,
+          "Ą": false,
+          "ă": false,
+          "Ă": false,
+          "Ā": false,
+          "ā": false
+        }
+      }
+    },
+    "Regla 5": {
+      "Tableaux anchura": {
+        "resultado": "modelo",
+        "verifica": true,
+        "tiempo_s": 0.003,
+        "modelo": {
+          "Ę": false,
+          "ė": false,
+          "Ė": false,
+          "Ĕ": false,
+          "ĕ": false
+        }
+      },
+      "Tableaux profundidad": {
+        "resultado": "modelo",
+        "verifica": true,
+        "tiempo_s": 0.002,
+        "modelo": {
+          "ă": true,
+          "Ą": true,
+          "Ă": true
+        }
+      },
+      "Tableaux backtracking": {
+        "resultado": "modelo",
+        "verifica": true,
+        "tiempo_s": 0.001,
+        "modelo": {
+          "Ę": false,
+          "ė": false,
+          "Ė": false,
+          "Ĕ": false,
+          "ĕ": false
+        }
+      }
+    },
+    "Reglas 1 a 5": {
+      "Tableaux anchura": {
+        "resultado": "tiempo agotado",
+        "verifica": null,
+        "tiempo_s": 3858.243,
+        "modelo": null
+      },
+      "Tableaux profundidad": {
+        "resultado": "tiempo agotado",
+        "verifica": null,
+        "tiempo_s": 3600.003,
+        "modelo": null
+      },
+      "Tableaux backtracking": {
+        "resultado": "tiempo agotado",
+        "verifica": null,
+        "tiempo_s": 3600.01,
+        "modelo": null
+      }
+    }
+  }
+}

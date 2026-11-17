@@ -1,0 +1,19 @@
+Solver,Regla,Resultado,¿Verifica?,Tiempo (s)
+Tableaux anchura,Regla 1,modelo,True,0.018
+Tableaux profundidad,Regla 1,modelo,True,0.003
+Tableaux backtracking,Regla 1,modelo,True,0.009
+Tableaux anchura,Regla 2,modelo,True,0.018
+Tableaux profundidad,Regla 2,modelo,True,0.005
+Tableaux backtracking,Regla 2,modelo,True,0.009
+Tableaux anchura,Regla 3,modelo,True,5.182
+Tableaux profundidad,Regla 3,modelo,True,0.067
+Tableaux backtracking,Regla 3,modelo,True,0.038
+Tableaux anchura,Regla 4,modelo,True,438.691
+Tableaux profundidad,Regla 4,modelo,True,0.027
+Tableaux backtracking,Regla 4,modelo,True,0.018
+Tableaux anchura,Regla 5,modelo,True,0.003
+Tableaux profundidad,Regla 5,modelo,True,0.002
+Tableaux backtracking,Regla 5,modelo,True,0.001
+Tableaux anchura,Reglas 1 a 5,tiempo agotado,,3858.243
+Tableaux profundidad,Reglas 1 a 5,tiempo agotado,,3600.003
+Tableaux backtracking,Reglas 1 a 5,tiempo agotado,,3600.01

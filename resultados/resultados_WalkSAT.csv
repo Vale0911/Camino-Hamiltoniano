@@ -1,0 +1,7 @@
+Solver,Regla,Resultado,¿Verifica?,Tiempo (s),Nº cláusulas,Volteos,Intentos
+WalkSAT,Regla 1,modelo,True,0.0003,73,27,1
+WalkSAT,Regla 2,modelo,True,0.0002,73,15,1
+WalkSAT,Regla 3,modelo,True,0.0074,423,2559,1
+WalkSAT,Regla 4,modelo,True,0.0037,226,1407,1
+WalkSAT,Regla 5,modelo,True,0.0002,55,21,1
+WalkSAT,Reglas 1 a 5,modelo,True,1.2184,858,385277,4

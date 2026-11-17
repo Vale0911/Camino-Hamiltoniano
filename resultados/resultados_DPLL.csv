@@ -1,0 +1,7 @@
+Solver,Regla,Resultado,¿Verifica?,Tiempo (s),Tseitin (s),Nº cláusulas,Decisiones,Conflictos
+DPLL,Regla 1,modelo,True,0.0006,0.0001,73,20,0
+DPLL,Regla 2,modelo,True,0.0006,0.0001,73,20,0
+DPLL,Regla 3,modelo,True,0.0061,0.0011,423,25,0
+DPLL,Regla 4,modelo,True,0.002,0.0005,226,20,0
+DPLL,Regla 5,modelo,True,0.0002,0.0001,55,5,0
+DPLL,Reglas 1 a 5,modelo,True,0.0183,0.0018,858,7,0

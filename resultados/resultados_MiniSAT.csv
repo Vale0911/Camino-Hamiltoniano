@@ -1,0 +1,7 @@
+Solver,Regla,Resultado,¿Verifica?,Tiempo (s),Nº cláusulas
+MiniSAT,Regla 1,Satisfacible,True,0.0002,73
+MiniSAT,Regla 2,Satisfacible,True,0.0001,73
+MiniSAT,Regla 3,Satisfacible,True,0.0005,423
+MiniSAT,Regla 4,Satisfacible,True,0.0004,226
+MiniSAT,Regla 5,Satisfacible,True,0.0001,55
+MiniSAT,Reglas 1 a 5,Satisfacible,True,0.0014,968
